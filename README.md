@@ -31,7 +31,7 @@ Installation:
 
 Clone the repository:
 
-git clone
+git clone:
 the link should be pasted here
 
 Move into the project folder:
