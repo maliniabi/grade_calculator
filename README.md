@@ -32,7 +32,7 @@ Installation:
 Clone the repository:
 
 git clone:
-the link should be pasted here
+https://github.com/maliniabi/grade_calculator
 
 Move into the project folder:
 cd marks_and_grade_calculator
@@ -69,6 +69,5 @@ This project was created to demonstrate basic Python Programming concepts includ
 -> Arithmetic operations
 -> Steamlit web application development
 
-Author:
 Malini
 GitHub : 
