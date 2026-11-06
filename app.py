@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("📊 Marks amd Grade Calculator")
+st.title("📊 Marks and Grade Calculator")
 
 name = st.text_input("Enter student name: ")
 num_subjects = st.number_input("Number of subjects", min_value = 1, max_value = 20, value= 5)
